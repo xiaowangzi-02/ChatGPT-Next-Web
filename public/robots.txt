@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: /
+Allow: /ads.txt
 User-agent: vitals.vercel-insights.com
 Allow: /
